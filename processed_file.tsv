@@ -1,0 +1,427 @@
+UID	Product_ID	Review_ID	Review_Text	Match word	Theme
+1	40114261	1	size is smaller than pic and got plastic stick instead of wooden stick average	size smaller than pic get plastic stick instead wooden stick average	NEUTRAL	NEUTRAL	NEGATIVE	No match	No match
+2	40114261	2	bad quality don't buy the handle is very weak it will come out immediately u hold it	bad quality do not buy handle very weak come immediately hold	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+3	40114261	2	bad quality don't buy the handle is very weak it will come out immediately u hold it	bad quality do not buy handle very weak come immediately hold	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+4	40114261	2	bad quality don't buy the handle is very weak it will come out immediately u hold it	bad quality do not buy handle very weak come immediately hold	NEGATIVE	NEGATIVE	NEGATIVE	do	operational_effectiveness
+5	40114261	3	 There was no company name in the product. only a sticker attached. the lid is useless bery light weight. even the tawa is light weight aluminium tawa. get heated very easily. not good for appam patra. I had earlier used Anjali products. either they deteriorated or fake product	no company name product only sticker attach lid useless bery light weight even tawa light weight aluminium tawa get heat very easily not good appam patra have earlier use anjali products either deteriorate fake product	NEGATIVE	NEGATIVE	NEGATIVE	heat	operational_effectiveness
+6	40114261	3	 There was no company name in the product. only a sticker attached. the lid is useless bery light weight. even the tawa is light weight aluminium tawa. get heated very easily. not good for appam patra. I had earlier used Anjali products. either they deteriorated or fake product	no company name product only sticker attach lid useless bery light weight even tawa light weight aluminium tawa get heat very easily not good appam patra have earlier use anjali products either deteriorate fake product	NEGATIVE	NEGATIVE	NEGATIVE	use	operational_effectiveness
+7	40114261	4	 It is not 28cm diameter. it's only 21cm. wasted my money!	not cm diameter only cm waste money	NEGATIVE	NEGATIVE	NEUTRAL	money	price
+8	40114261	4	 It is not 28cm diameter. it's only 21cm. wasted my money!	not cm diameter only cm waste money	NEGATIVE	NEGATIVE	NEUTRAL	diameter	size
+9	40114261	5	not so good there was dent on the product when i got this.	not good dent product get	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+10	40114261	6	defect in steel lid Dent in steel lid	defect steel lid dent steel lid	NEUTRAL	NEGATIVE	NEUTRAL	No match	No match
+11	40114261	7	 Very good and nonstick, consumes less oil. Only that the appa kuzhi size could have been bigger.	very good nonstick consume less oil only appa kuzhi size could have bigger	POSITIVE	POSITIVE	POSITIVE	bigger	operational_effectiveness
+12	40114261	7	 Very good and nonstick, consumes less oil. Only that the appa kuzhi size could have been bigger.	very good nonstick consume less oil only appa kuzhi size could have bigger	POSITIVE	POSITIVE	POSITIVE	consume	operational_effectiveness
+13	40114261	8	 User friendly	user friendly	POSITIVE	POSITIVE	POSITIVE	No match	No match
+14	40114261	9	 Good Product	good product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+15	40114261	10	 product is good, I made 2 batches and they came out nicely. removing 1 star for delivery, the lid was dented, maybe bad handling.	product good make batch come nicely remove star delivery lid dent maybe bad handle	POSITIVE	POSITIVE	NEGATIVE	batch	shipping_delivery
+16	40114261	10	 product is good, I made 2 batches and they came out nicely. removing 1 star for delivery, the lid was dented, maybe bad handling.	product good make batch come nicely remove star delivery lid dent maybe bad handle	POSITIVE	POSITIVE	NEGATIVE	delivery	shipping_delivery
+17	40114261	10	 product is good, I made 2 batches and they came out nicely. removing 1 star for delivery, the lid was dented, maybe bad handling.	product good make batch come nicely remove star delivery lid dent maybe bad handle	POSITIVE	POSITIVE	NEGATIVE	bad	quality
+18	40114261	10	 product is good, I made 2 batches and they came out nicely. removing 1 star for delivery, the lid was dented, maybe bad handling.	product good make batch come nicely remove star delivery lid dent maybe bad handle	POSITIVE	POSITIVE	NEGATIVE	make	quality
+19	40114261	11	 Good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+20	40114261	12	 i want one more product	want one more product	POSITIVE	POSITIVE	NEGATIVE	want	quality
+21	40114261	13	awesome product good product delivered by ritesh	awesome product good product deliver ritesh	POSITIVE	POSITIVE	POSITIVE	deliver	shipping_delivery
+22	40114261	14	 good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+23	40114261	15	nice the pan is little smaller than what is shown in the picture but still good	nice pan little smaller than show picture but still good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+24	40114261	16	 best products	best products	POSITIVE	POSITIVE	POSITIVE	No match	No match
+25	40114261	17	Must go for it. Good Product.	must go good product	POSITIVE	POSITIVE	NEUTRAL	No match	No match
+26	40114261	18	 Good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+27	40114261	19	 good, nice product	good nice product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+28	40114261	20	nice product At this cost its a very nice product...that too with lid... which is also an important part	nice product cost very nice product too lid also important part	POSITIVE	POSITIVE	POSITIVE	cost	price
+29	40114261	21	Good one The base is heavy, and almost uniform heating across all the cavities is observed, leading to uniform cooking. Using it since last one month and in love with the product.	good one base heavy almost uniform heat across cavities observe lead uniform cook use since last one month love product	NEUTRAL	POSITIVE	NEUTRAL	last	quality
+30	40114261	21	Good one The base is heavy, and almost uniform heating across all the cavities is observed, leading to uniform cooking. Using it since last one month and in love with the product.	good one base heavy almost uniform heat across cavities observe lead uniform cook use since last one month love product	NEUTRAL	POSITIVE	NEUTRAL	heat	operational_effectiveness
+31	40114261	21	Good one The base is heavy, and almost uniform heating across all the cavities is observed, leading to uniform cooking. Using it since last one month and in love with the product.	good one base heavy almost uniform heat across cavities observe lead uniform cook use since last one month love product	NEUTRAL	POSITIVE	NEUTRAL	use	operational_effectiveness
+32	40114261	22	 Good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+33	40114261	23	yes nice	yes nice	POSITIVE	POSITIVE	POSITIVE	No match	No match
+34	40114261	24	I did like this product quality issue	do like product quality issue	NEUTRAL	POSITIVE	NEGATIVE	issue	quality
+35	40114261	24	I did like this product quality issue	do like product quality issue	NEUTRAL	POSITIVE	NEGATIVE	quality	quality
+36	40114261	24	I did like this product quality issue	do like product quality issue	NEUTRAL	POSITIVE	NEGATIVE	do	operational_effectiveness
+37	40114261	25	good product 	good product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+38	40114262	26	Does the job It's a great tool. Toast on the lowest burner setting and you get results.	do job great tool toast lowest burner set get result	POSITIVE	POSITIVE	NEUTRAL	do	operational_effectiveness
+39	40114262	26	Does the job It's a great tool. Toast on the lowest burner setting and you get results.	do job great tool toast lowest burner set get result	POSITIVE	POSITIVE	NEUTRAL	toast	operational_effectiveness
+40	40114262	27	 It does it work seamlessly	do work seamlessly	POSITIVE	NEUTRAL	NEUTRAL	do	operational_effectiveness
+41	40114262	27	 It does it work seamlessly	do work seamlessly	POSITIVE	NEUTRAL	NEUTRAL	work	operational_effectiveness
+42	40114262	28	Bad Horrible bad quality toast is burning. Firstly got a wrong product and then stuck.	bad horrible bad quality toast burn firstly get wrong product stick	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+43	40114262	28	Bad Horrible bad quality toast is burning. Firstly got a wrong product and then stuck.	bad horrible bad quality toast burn firstly get wrong product stick	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+44	40114262	28	Bad Horrible bad quality toast is burning. Firstly got a wrong product and then stuck.	bad horrible bad quality toast burn firstly get wrong product stick	NEGATIVE	NEGATIVE	NEGATIVE	toast	operational_effectiveness
+45	40114262	29	 Average Product	average product	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+46	40114262	30	Good product Good. Serves the purpose.	good product good serve purpose	POSITIVE	POSITIVE	POSITIVE	No match	No match
+47	40114262	31	 good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+48	40114262	32	not yet tried not yet tried	not yet try not yet try	NEUTRAL	NEUTRAL	NEUTRAL	No match	No match
+49	40014027	33	 vry bad product...everything sticks	vry bad product everything stick	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+50	40014027	34	Rubbish product just started using it last week and within 4 use, it has gone bad, it doesn't seems like original Hawkins futura, can't even cook a basic Omelette in this pan, is there a way to get it returned. Not worthy of even 1/2 star.	rubbish product just start use last week within use have go bad do not seem like original hawkins futura can not even cook basic omelette pan way get return not worthy even star	NEGATIVE	NEGATIVE	NEGATIVE	can	shipping_delivery
+51	40014027	34	Rubbish product just started using it last week and within 4 use, it has gone bad, it doesn't seems like original Hawkins futura, can't even cook a basic Omelette in this pan, is there a way to get it returned. Not worthy of even 1/2 star.	rubbish product just start use last week within use have go bad do not seem like original hawkins futura can not even cook basic omelette pan way get return not worthy even star	NEGATIVE	NEGATIVE	NEGATIVE	return	shipping_delivery
+52	40014027	34	Rubbish product just started using it last week and within 4 use, it has gone bad, it doesn't seems like original Hawkins futura, can't even cook a basic Omelette in this pan, is there a way to get it returned. Not worthy of even 1/2 star.	rubbish product just start use last week within use have go bad do not seem like original hawkins futura can not even cook basic omelette pan way get return not worthy even star	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+53	40014027	34	Rubbish product just started using it last week and within 4 use, it has gone bad, it doesn't seems like original Hawkins futura, can't even cook a basic Omelette in this pan, is there a way to get it returned. Not worthy of even 1/2 star.	rubbish product just start use last week within use have go bad do not seem like original hawkins futura can not even cook basic omelette pan way get return not worthy even star	NEGATIVE	NEGATIVE	NEGATIVE	last	quality
+54	40014027	34	Rubbish product just started using it last week and within 4 use, it has gone bad, it doesn't seems like original Hawkins futura, can't even cook a basic Omelette in this pan, is there a way to get it returned. Not worthy of even 1/2 star.	rubbish product just start use last week within use have go bad do not seem like original hawkins futura can not even cook basic omelette pan way get return not worthy even star	NEGATIVE	NEGATIVE	NEGATIVE	do	operational_effectiveness
+55	40014027	34	Rubbish product just started using it last week and within 4 use, it has gone bad, it doesn't seems like original Hawkins futura, can't even cook a basic Omelette in this pan, is there a way to get it returned. Not worthy of even 1/2 star.	rubbish product just start use last week within use have go bad do not seem like original hawkins futura can not even cook basic omelette pan way get return not worthy even star	NEGATIVE	NEGATIVE	NEGATIVE	use	operational_effectiveness
+56	40014027	35	 Good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+57	40014027	36	 very bad product.. without applying oil w cannot be used	very bad product without apply oil w can not use	NEGATIVE	NEGATIVE	NEGATIVE	can	shipping_delivery
+58	40014027	36	 very bad product.. without applying oil w cannot be used	very bad product without apply oil w can not use	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+59	40014027	36	 very bad product.. without applying oil w cannot be used	very bad product without apply oil w can not use	NEGATIVE	NEGATIVE	NEGATIVE	use	operational_effectiveness
+60	40014023	37	pathetic product and service of big basket pathetic product and return is also cancelled by big basket. pathetic service	pathetic product service big basket pathetic product return also cancel big basket pathetic service	NEGATIVE	NEGATIVE	NEGATIVE	return	shipping_delivery
+61	40014023	37	pathetic product and service of big basket pathetic product and return is also cancelled by big basket. pathetic service	pathetic product service big basket pathetic product return also cancel big basket pathetic service	NEGATIVE	NEGATIVE	NEGATIVE	service	operational_effectiveness
+62	40014023	38	 exellent product by Hawkins.	exellent product hawkins	NEUTRAL	NEUTRAL	NEUTRAL	No match	No match
+63	40023164	39	good product good	good product good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+64	40077282	40	 terrible quality. The coating is not teflon. The handle becomes loose every now & then because of wrong nuts & bolts are used.	terrible quality coat not teflon handle become loose every now wrong nut bolt use	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+65	40077282	40	 terrible quality. The coating is not teflon. The handle becomes loose every now & then because of wrong nuts & bolts are used.	terrible quality coat not teflon handle become loose every now wrong nut bolt use	NEGATIVE	NEGATIVE	NEGATIVE	use	operational_effectiveness
+66	40168472	41	 Too small and not deep enough. Still Unopened. Would like to return it.	too small not deep enough still unopened would like return	NEGATIVE	POSITIVE	POSITIVE	return	shipping_delivery
+67	40168472	42	A 4-star product. Product is good, but the outer paint (red color) started coming out after first wash. Have used it for around 4-5 times, inside looks good.	star product product good but outer paint red color start come first wash have use around time inside look good	POSITIVE	POSITIVE	POSITIVE	use	operational_effectiveness
+68	40168472	42	A 4-star product. Product is good, but the outer paint (red color) started coming out after first wash. Have used it for around 4-5 times, inside looks good.	star product product good but outer paint red color start come first wash have use around time inside look good	POSITIVE	POSITIVE	POSITIVE	wash	maintenance
+69	40168472	43	 I got this today and started using it after completing the sanitizing procedures. I like this as this is deeper than I expected... was able to fry a chopped medium onion for dal tadka... :). so its capacity is good	get today start use complete sanitize procedures like deeper than expect able fry chop medium onion dal tadka capacity good	POSITIVE	POSITIVE	POSITIVE	capacity	size
+70	40168472	43	 I got this today and started using it after completing the sanitizing procedures. I like this as this is deeper than I expected... was able to fry a chopped medium onion for dal tadka... :). so its capacity is good	get today start use complete sanitize procedures like deeper than expect able fry chop medium onion dal tadka capacity good	POSITIVE	POSITIVE	POSITIVE	fry	operational_effectiveness
+71	40168472	43	 I got this today and started using it after completing the sanitizing procedures. I like this as this is deeper than I expected... was able to fry a chopped medium onion for dal tadka... :). so its capacity is good	get today start use complete sanitize procedures like deeper than expect able fry chop medium onion dal tadka capacity good	POSITIVE	POSITIVE	POSITIVE	use	operational_effectiveness
+72	40168472	44	 handy and useful	handy useful	POSITIVE	POSITIVE	POSITIVE	handy	operational_effectiveness
+73	40168472	44	 handy and useful	handy useful	POSITIVE	POSITIVE	POSITIVE	useful	operational_effectiveness
+74	40168472	45	 GOOD	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+75	40168472	46	 good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+76	40031298	47	 The lid broke in like 30 days only. I want to get a replacement.	lid break like 0 days only want get replacement	NEUTRAL	POSITIVE	NEUTRAL	break	quality
+77	40031298	47	 The lid broke in like 30 days only. I want to get a replacement.	lid break like 0 days only want get replacement	NEUTRAL	POSITIVE	NEUTRAL	want	quality
+78	40031298	48	 Finger can be cut from the edge because the edge is very sharp	finger can cut edge edge very sharp	NEGATIVE	NEGATIVE	POSITIVE	can	shipping_delivery
+79	40031298	49	 Satisfied with the product. Serves my purpose of cooking small meals.	satisfy product serve purpose cook small meals	NEGATIVE	POSITIVE	NEGATIVE	No match	No match
+80	40031298	50	 the product was damaged within 5 days after purchase. not expected from prestige	product damage within days purchase not expect prestige	NEUTRAL	NEGATIVE	NEUTRAL	No match	No match
+81	40031298	51	Worst Quality Product Worst product cheap quality and the lid got burst while cooking within 3 days of purchase	worst quality product worst product cheap quality lid get burst cook within days purchase	NEGATIVE	NEGATIVE	NEGATIVE	cheap	price
+82	40031298	51	Worst Quality Product Worst product cheap quality and the lid got burst while cooking within 3 days of purchase	worst quality product worst product cheap quality lid get burst cook within days purchase	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+83	40031298	52	worst product worst coating came out within no time in spite of not using it regularly	worst product worst coat come within no time spite not use regularly	NEGATIVE	NEGATIVE	NEGATIVE	use	operational_effectiveness
+84	40031298	53	 I wonder if this product has Teflon coating and the glass lid broke. I dint expect this form the Prestige product	wonder product have teflon coat glass lid break dint expect form prestige product	NEUTRAL	NEUTRAL	NEUTRAL	break	quality
+85	40031298	54	 I like the product as it is very useful.	like product very useful	POSITIVE	POSITIVE	POSITIVE	useful	operational_effectiveness
+86	40119727	55	 worst product	worst product	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+87	40166686	56	 Lovely heavy bottom SS kadai..dishwasher safe..trick to use an SS kadai is to put it on medium to low flame and add oil just after turning the gas on. Very satisfied with the product..one negative is that it has a ridge just above the bottom of the pan so the masala tends to gather at that ridge. Been using the product everday for almost 2 weeks now.	lovely heavy bottom ss kadai dishwasher safe trick use ss kadai put medium low flame add oil just turn gas very satisfy product one negative have ridge just above bottom pan masala tend gather ridge use product everday almost weeks now	POSITIVE	POSITIVE	POSITIVE	use	operational_effectiveness
+88	40166686	57	 Not good	not good	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+89	40166686	58	so I m not satisfied it's lickage from handle	m not satisfy lickage handle	NEUTRAL	NEGATIVE	NEGATIVE	No match	No match
+90	40166686	59	 Very Good Product	very good product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+91	40166686	60	damaged please change its all damaged product	damage please change damage product	NEUTRAL	NEGATIVE	NEGATIVE	No match	No match
+92	40166686	61	 Sturdy and nice looking	sturdy nice look	POSITIVE	POSITIVE	POSITIVE	sturdy	quality
+93	40166685	62	it's of proper size for me and is not too heavy. but still food doesn't stick to the bottom. 	proper size not too heavy but still food do not stick bottom	NEGATIVE	NEUTRAL	NEGATIVE	do	operational_effectiveness
+94	40166685	63	 good and sturdy kadai	good sturdy kadai	POSITIVE	POSITIVE	POSITIVE	sturdy	quality
+95	40166685	64	awesome 	awesome	POSITIVE	POSITIVE	POSITIVE	No match	No match
+96	40166685	65	 I like this product.	like product	NEUTRAL	POSITIVE	NEGATIVE	No match	No match
+97	40166685	66	 nice and perfect	nice perfect	POSITIVE	POSITIVE	POSITIVE	perfect	quality
+98	40129855	67	poor thing Really bad quality	poor thing really bad quality	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+99	40129855	67	poor thing Really bad quality	poor thing really bad quality	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+100	40128795	68	Perfect small size pan for omlette Very good quality product. Perfect for omlette and stuff	perfect small size pan omlette very good quality product perfect omlette stuff	POSITIVE	POSITIVE	POSITIVE	perfect	quality
+101	40128795	68	Perfect small size pan for omlette Very good quality product. Perfect for omlette and stuff	perfect small size pan omlette very good quality product perfect omlette stuff	POSITIVE	POSITIVE	POSITIVE	quality	quality
+102	40128795	69	Pan Smaller than expectation	pan smaller than expectation	NEUTRAL	NEUTRAL	POSITIVE	No match	No match
+103	40031298	70	 The lid broke in like 30 days only. I want to get a replacement.	lid break like 0 days only want get replacement	NEUTRAL	POSITIVE	NEUTRAL	break	quality
+104	40031298	70	 The lid broke in like 30 days only. I want to get a replacement.	lid break like 0 days only want get replacement	NEUTRAL	POSITIVE	NEUTRAL	want	quality
+105	40031298	71	 Finger can be cut from the edge because the edge is very sharp	finger can cut edge edge very sharp	NEGATIVE	NEGATIVE	POSITIVE	can	shipping_delivery
+106	40031298	72	 Satisfied with the product. Serves my purpose of cooking small meals.	satisfy product serve purpose cook small meals	NEGATIVE	POSITIVE	NEGATIVE	No match	No match
+107	40031298	73	 the product was damaged within 5 days after purchase. not expected from prestige	product damage within days purchase not expect prestige	NEUTRAL	NEGATIVE	NEUTRAL	No match	No match
+108	40031298	74	Worst Quality Product Worst product cheap quality and the lid got burst while cooking within 3 days of purchase	worst quality product worst product cheap quality lid get burst cook within days purchase	NEGATIVE	NEGATIVE	NEGATIVE	cheap	price
+109	40031298	74	Worst Quality Product Worst product cheap quality and the lid got burst while cooking within 3 days of purchase	worst quality product worst product cheap quality lid get burst cook within days purchase	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+110	40031298	75	worst product worst coating came out within no time in spite of not using it regularly	worst product worst coat come within no time spite not use regularly	NEGATIVE	NEGATIVE	NEGATIVE	use	operational_effectiveness
+111	40031298	76	 I wonder if this product has Teflon coating and the glass lid broke. I dint expect this form the Prestige product	wonder product have teflon coat glass lid break dint expect form prestige product	NEUTRAL	NEUTRAL	NEUTRAL	break	quality
+112	40031298	77	 I like the product as it is very useful.	like product very useful	POSITIVE	POSITIVE	POSITIVE	useful	operational_effectiveness
+113	40166685	78	it's of proper size for me and is not too heavy. but still food doesn't stick to the bottom. 	proper size not too heavy but still food do not stick bottom	NEGATIVE	NEUTRAL	NEGATIVE	do	operational_effectiveness
+114	40166685	79	 good and sturdy kadai	good sturdy kadai	POSITIVE	POSITIVE	POSITIVE	sturdy	quality
+115	40166685	80	awesome 	awesome	POSITIVE	POSITIVE	POSITIVE	No match	No match
+116	40166685	81	 I like this product.	like product	NEUTRAL	POSITIVE	NEGATIVE	No match	No match
+117	40166685	82	 nice and perfect	nice perfect	POSITIVE	POSITIVE	POSITIVE	perfect	quality
+118	40014027	83	 vry bad product...everything sticks	vry bad product everything stick	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+119	40014027	84	Rubbish product just started using it last week and within 4 use, it has gone bad, it doesn't seems like original Hawkins futura, can't even cook a basic Omelette in this pan, is there a way to get it returned. Not worthy of even 1/2 star.	rubbish product just start use last week within use have go bad do not seem like original hawkins futura can not even cook basic omelette pan way get return not worthy even star	NEGATIVE	NEGATIVE	NEGATIVE	can	shipping_delivery
+120	40014027	84	Rubbish product just started using it last week and within 4 use, it has gone bad, it doesn't seems like original Hawkins futura, can't even cook a basic Omelette in this pan, is there a way to get it returned. Not worthy of even 1/2 star.	rubbish product just start use last week within use have go bad do not seem like original hawkins futura can not even cook basic omelette pan way get return not worthy even star	NEGATIVE	NEGATIVE	NEGATIVE	return	shipping_delivery
+121	40014027	84	Rubbish product just started using it last week and within 4 use, it has gone bad, it doesn't seems like original Hawkins futura, can't even cook a basic Omelette in this pan, is there a way to get it returned. Not worthy of even 1/2 star.	rubbish product just start use last week within use have go bad do not seem like original hawkins futura can not even cook basic omelette pan way get return not worthy even star	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+122	40014027	84	Rubbish product just started using it last week and within 4 use, it has gone bad, it doesn't seems like original Hawkins futura, can't even cook a basic Omelette in this pan, is there a way to get it returned. Not worthy of even 1/2 star.	rubbish product just start use last week within use have go bad do not seem like original hawkins futura can not even cook basic omelette pan way get return not worthy even star	NEGATIVE	NEGATIVE	NEGATIVE	last	quality
+123	40014027	84	Rubbish product just started using it last week and within 4 use, it has gone bad, it doesn't seems like original Hawkins futura, can't even cook a basic Omelette in this pan, is there a way to get it returned. Not worthy of even 1/2 star.	rubbish product just start use last week within use have go bad do not seem like original hawkins futura can not even cook basic omelette pan way get return not worthy even star	NEGATIVE	NEGATIVE	NEGATIVE	do	operational_effectiveness
+124	40014027	84	Rubbish product just started using it last week and within 4 use, it has gone bad, it doesn't seems like original Hawkins futura, can't even cook a basic Omelette in this pan, is there a way to get it returned. Not worthy of even 1/2 star.	rubbish product just start use last week within use have go bad do not seem like original hawkins futura can not even cook basic omelette pan way get return not worthy even star	NEGATIVE	NEGATIVE	NEGATIVE	use	operational_effectiveness
+125	40014027	85	 Good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+126	40014027	86	 very bad product.. without applying oil w cannot be used	very bad product without apply oil w can not use	NEGATIVE	NEGATIVE	NEGATIVE	can	shipping_delivery
+127	40014027	86	 very bad product.. without applying oil w cannot be used	very bad product without apply oil w can not use	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+128	40014027	86	 very bad product.. without applying oil w cannot be used	very bad product without apply oil w can not use	NEGATIVE	NEGATIVE	NEGATIVE	use	operational_effectiveness
+129	40014023	87	pathetic product and service of big basket pathetic product and return is also cancelled by big basket. pathetic service	pathetic product service big basket pathetic product return also cancel big basket pathetic service	NEGATIVE	NEGATIVE	NEGATIVE	return	shipping_delivery
+130	40014023	87	pathetic product and service of big basket pathetic product and return is also cancelled by big basket. pathetic service	pathetic product service big basket pathetic product return also cancel big basket pathetic service	NEGATIVE	NEGATIVE	NEGATIVE	service	operational_effectiveness
+131	40014023	88	 exellent product by Hawkins.	exellent product hawkins	NEUTRAL	NEUTRAL	NEUTRAL	No match	No match
+132	40113966	89	 please return this its not with appam stand	please return not appam stand	NEUTRAL	POSITIVE	NEGATIVE	return	shipping_delivery
+133	40113966	90	 Small Size	small size	NEGATIVE	NEUTRAL	POSITIVE	No match	No match
+134	40113971	91	Coating peeling off after 5 months. But Replaced. It was all good for 5 months. At the end of 5 months the non stick coating started to peel off. I've not used any metal spoons /abrasive to wash it. I was trying to give maximum care yet the coating has started to peel off. Gotta throw it now. Better buy something else Maybe stainless steel would be better! Update : I contacted the Kaviraj company and they replaced with a new Kadhai. And this kadhai has 1 year warranty. And replacement was pretty easy.	coat peel months but replace good months end months non stick coat start peel I have not use metal spoon abrasive wash try give maximum care yet coat have start peel get throw now better buy something else maybe stainless steel would better update contact kaviraj company replace new kadhai kadhai have year warranty replacement pretty easy	POSITIVE	POSITIVE	NEGATIVE	replace	quality
+135	40113971	91	Coating peeling off after 5 months. But Replaced. It was all good for 5 months. At the end of 5 months the non stick coating started to peel off. I've not used any metal spoons /abrasive to wash it. I was trying to give maximum care yet the coating has started to peel off. Gotta throw it now. Better buy something else Maybe stainless steel would be better! Update : I contacted the Kaviraj company and they replaced with a new Kadhai. And this kadhai has 1 year warranty. And replacement was pretty easy.	coat peel months but replace good months end months non stick coat start peel I have not use metal spoon abrasive wash try give maximum care yet coat have start peel get throw now better buy something else maybe stainless steel would better update contact kaviraj company replace new kadhai kadhai have year warranty replacement pretty easy	POSITIVE	POSITIVE	NEGATIVE	use	operational_effectiveness
+136	40113971	91	Coating peeling off after 5 months. But Replaced. It was all good for 5 months. At the end of 5 months the non stick coating started to peel off. I've not used any metal spoons /abrasive to wash it. I was trying to give maximum care yet the coating has started to peel off. Gotta throw it now. Better buy something else Maybe stainless steel would be better! Update : I contacted the Kaviraj company and they replaced with a new Kadhai. And this kadhai has 1 year warranty. And replacement was pretty easy.	coat peel months but replace good months end months non stick coat start peel I have not use metal spoon abrasive wash try give maximum care yet coat have start peel get throw now better buy something else maybe stainless steel would better update contact kaviraj company replace new kadhai kadhai have year warranty replacement pretty easy	POSITIVE	POSITIVE	NEGATIVE	care	maintenance
+137	40113971	91	Coating peeling off after 5 months. But Replaced. It was all good for 5 months. At the end of 5 months the non stick coating started to peel off. I've not used any metal spoons /abrasive to wash it. I was trying to give maximum care yet the coating has started to peel off. Gotta throw it now. Better buy something else Maybe stainless steel would be better! Update : I contacted the Kaviraj company and they replaced with a new Kadhai. And this kadhai has 1 year warranty. And replacement was pretty easy.	coat peel months but replace good months end months non stick coat start peel I have not use metal spoon abrasive wash try give maximum care yet coat have start peel get throw now better buy something else maybe stainless steel would better update contact kaviraj company replace new kadhai kadhai have year warranty replacement pretty easy	POSITIVE	POSITIVE	NEGATIVE	wash	maintenance
+138	40113971	92	not good Not good, very light. Lid is hopeless	not good not good very light lid hopeless	NEGATIVE	NEGATIVE	POSITIVE	No match	No match
+139	40113971	93	 small size	small size	NEGATIVE	NEUTRAL	POSITIVE	No match	No match
+140	40031298	94	 The lid broke in like 30 days only. I want to get a replacement.	lid break like 0 days only want get replacement	NEUTRAL	POSITIVE	NEUTRAL	break	quality
+141	40031298	94	 The lid broke in like 30 days only. I want to get a replacement.	lid break like 0 days only want get replacement	NEUTRAL	POSITIVE	NEUTRAL	want	quality
+142	40031298	95	 Finger can be cut from the edge because the edge is very sharp	finger can cut edge edge very sharp	NEGATIVE	NEGATIVE	POSITIVE	can	shipping_delivery
+143	40031298	96	 Satisfied with the product. Serves my purpose of cooking small meals.	satisfy product serve purpose cook small meals	NEGATIVE	POSITIVE	NEGATIVE	No match	No match
+144	40031298	97	 the product was damaged within 5 days after purchase. not expected from prestige	product damage within days purchase not expect prestige	NEUTRAL	NEGATIVE	NEUTRAL	No match	No match
+145	40031298	98	Worst Quality Product Worst product cheap quality and the lid got burst while cooking within 3 days of purchase	worst quality product worst product cheap quality lid get burst cook within days purchase	NEGATIVE	NEGATIVE	NEGATIVE	cheap	price
+146	40031298	98	Worst Quality Product Worst product cheap quality and the lid got burst while cooking within 3 days of purchase	worst quality product worst product cheap quality lid get burst cook within days purchase	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+147	40031298	99	worst product worst coating came out within no time in spite of not using it regularly	worst product worst coat come within no time spite not use regularly	NEGATIVE	NEGATIVE	NEGATIVE	use	operational_effectiveness
+148	40031298	100	 I wonder if this product has Teflon coating and the glass lid broke. I dint expect this form the Prestige product	wonder product have teflon coat glass lid break dint expect form prestige product	NEUTRAL	NEUTRAL	NEUTRAL	break	quality
+149	40031298	101	 I like the product as it is very useful.	like product very useful	POSITIVE	POSITIVE	POSITIVE	useful	operational_effectiveness
+150	40119727	102	 worst product	worst product	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+151	40166686	103	 Lovely heavy bottom SS kadai..dishwasher safe..trick to use an SS kadai is to put it on medium to low flame and add oil just after turning the gas on. Very satisfied with the product..one negative is that it has a ridge just above the bottom of the pan so the masala tends to gather at that ridge. Been using the product everday for almost 2 weeks now.	lovely heavy bottom ss kadai dishwasher safe trick use ss kadai put medium low flame add oil just turn gas very satisfy product one negative have ridge just above bottom pan masala tend gather ridge use product everday almost weeks now	POSITIVE	POSITIVE	POSITIVE	use	operational_effectiveness
+152	40166686	104	 Not good	not good	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+153	40166686	105	so I m not satisfied it's lickage from handle	m not satisfy lickage handle	NEUTRAL	NEGATIVE	NEGATIVE	No match	No match
+154	40166686	106	 Very Good Product	very good product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+155	40166686	107	damaged please change its all damaged product	damage please change damage product	NEUTRAL	NEGATIVE	NEGATIVE	No match	No match
+156	40166686	108	 Sturdy and nice looking	sturdy nice look	POSITIVE	POSITIVE	POSITIVE	sturdy	quality
+157	40166685	109	it's of proper size for me and is not too heavy. but still food doesn't stick to the bottom. 	proper size not too heavy but still food do not stick bottom	NEGATIVE	NEUTRAL	NEGATIVE	do	operational_effectiveness
+158	40166685	110	 good and sturdy kadai	good sturdy kadai	POSITIVE	POSITIVE	POSITIVE	sturdy	quality
+159	40166685	111	awesome 	awesome	POSITIVE	POSITIVE	POSITIVE	No match	No match
+160	40166685	112	 I like this product.	like product	NEUTRAL	POSITIVE	NEGATIVE	No match	No match
+161	40166685	113	 nice and perfect	nice perfect	POSITIVE	POSITIVE	POSITIVE	perfect	quality
+162	40129855	114	poor thing Really bad quality	poor thing really bad quality	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+163	40129855	114	poor thing Really bad quality	poor thing really bad quality	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+164	40114262	115	Does the job It's a great tool. Toast on the lowest burner setting and you get results.	do job great tool toast lowest burner set get result	POSITIVE	POSITIVE	NEUTRAL	do	operational_effectiveness
+165	40114262	115	Does the job It's a great tool. Toast on the lowest burner setting and you get results.	do job great tool toast lowest burner set get result	POSITIVE	POSITIVE	NEUTRAL	toast	operational_effectiveness
+166	40114262	116	 It does it work seamlessly	do work seamlessly	POSITIVE	NEUTRAL	NEUTRAL	do	operational_effectiveness
+167	40114262	116	 It does it work seamlessly	do work seamlessly	POSITIVE	NEUTRAL	NEUTRAL	work	operational_effectiveness
+168	40114262	117	Bad Horrible bad quality toast is burning. Firstly got a wrong product and then stuck.	bad horrible bad quality toast burn firstly get wrong product stick	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+169	40114262	117	Bad Horrible bad quality toast is burning. Firstly got a wrong product and then stuck.	bad horrible bad quality toast burn firstly get wrong product stick	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+170	40114262	117	Bad Horrible bad quality toast is burning. Firstly got a wrong product and then stuck.	bad horrible bad quality toast burn firstly get wrong product stick	NEGATIVE	NEGATIVE	NEGATIVE	toast	operational_effectiveness
+171	40114262	118	 Average Product	average product	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+172	40114262	119	Good product Good. Serves the purpose.	good product good serve purpose	POSITIVE	POSITIVE	POSITIVE	No match	No match
+173	40114262	120	 good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+174	40114262	121	not yet tried not yet tried	not yet try not yet try	NEUTRAL	NEUTRAL	NEUTRAL	No match	No match
+175	40023184	122	It is not induction comfortable. This Kadhai is not induction comfortable but they mentioned like it is induction comfortable. Very bad big basket. I have ordered this only for induction but it is not working for induction...	not induction comfortable kadhai not induction comfortable but mention like induction comfortable very bad big basket have order only induction but not work induction	NEUTRAL	NEGATIVE	NEGATIVE	bad	quality
+176	40023184	122	It is not induction comfortable. This Kadhai is not induction comfortable but they mentioned like it is induction comfortable. Very bad big basket. I have ordered this only for induction but it is not working for induction...	not induction comfortable kadhai not induction comfortable but mention like induction comfortable very bad big basket have order only induction but not work induction	NEUTRAL	NEGATIVE	NEGATIVE	induction	operational_effectiveness
+177	40023184	122	It is not induction comfortable. This Kadhai is not induction comfortable but they mentioned like it is induction comfortable. Very bad big basket. I have ordered this only for induction but it is not working for induction...	not induction comfortable kadhai not induction comfortable but mention like induction comfortable very bad big basket have order only induction but not work induction	NEUTRAL	NEGATIVE	NEGATIVE	work	operational_effectiveness
+178	40023184	123	small in size. very small. no use	small size very small no use	NEGATIVE	NEGATIVE	NEGATIVE	use	operational_effectiveness
+179	40023184	124	 Too small, not even 0.5L.	too small not even 0 l	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+180	40023184	125	very small size not useful to cook any thing don't buy it is very small you can't cook anything	very small size not useful cook thing do not buy very small can not cook anything	NEGATIVE	NEGATIVE	NEGATIVE	can	shipping_delivery
+181	40023184	125	very small size not useful to cook any thing don't buy it is very small you can't cook anything	very small size not useful cook thing do not buy very small can not cook anything	NEGATIVE	NEGATIVE	NEGATIVE	do	operational_effectiveness
+182	40023184	125	very small size not useful to cook any thing don't buy it is very small you can't cook anything	very small size not useful cook thing do not buy very small can not cook anything	NEGATIVE	NEGATIVE	NEGATIVE	useful	operational_effectiveness
+183	40023184	126	 good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+184	40023184	127	 it is very cheap n light n waste of money. terrible. bad product.	very cheap n light n waste money terrible bad product	NEGATIVE	NEGATIVE	NEGATIVE	cheap	price
+185	40023184	127	 it is very cheap n light n waste of money. terrible. bad product.	very cheap n light n waste money terrible bad product	NEGATIVE	NEGATIVE	NEGATIVE	money	price
+186	40023184	127	 it is very cheap n light n waste of money. terrible. bad product.	very cheap n light n waste money terrible bad product	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+187	40023184	128	product good but size small 2.2mm product is good 5 ? product but size small	product good but size small mm product good product but size small	POSITIVE	POSITIVE	POSITIVE	No match	No match
+188	40023184	129	 Worst product i could ever have	worst product could ever have	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+189	40023184	130	 not good	not good	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+190	40023184	131	kindly restock.... Cute little kadhai. V useful to reheat or serve	kindly restock cute little kadhai v useful reheat serve	POSITIVE	POSITIVE	POSITIVE	useful	operational_effectiveness
+191	40023184	132	 it's very cute.just for one person.build is good.	very cute just one person build good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+192	40023184	133	 nott induction compatible	nott induction compatible	NEUTRAL	NEUTRAL	NEGATIVE	compatible	operational_effectiveness
+193	40023184	133	 nott induction compatible	nott induction compatible	NEUTRAL	NEUTRAL	NEGATIVE	induction	operational_effectiveness
+194	40023184	134	 this is very useful product	very useful product	POSITIVE	POSITIVE	NEUTRAL	useful	operational_effectiveness
+195	40023184	135	 too small	too small	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+196	40023184	136	 too small	too small	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+197	40023184	137	 good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+198	40023184	138	 so small ???	small	NEGATIVE	NEUTRAL	NEUTRAL	No match	No match
+199	40023184	139	 Its very small	very small	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+200	40023184	140	good quality for small size kadai It was 6 inches only but it was super quality may be use as tadka pan very good finishing but small in size	good quality small size kadai inch only but super quality may use tadka pan very good finish but small size	POSITIVE	POSITIVE	POSITIVE	quality	quality
+201	40023184	140	good quality for small size kadai It was 6 inches only but it was super quality may be use as tadka pan very good finishing but small in size	good quality small size kadai inch only but super quality may use tadka pan very good finish but small size	POSITIVE	POSITIVE	POSITIVE	use	operational_effectiveness
+202	40023184	141	 too small	too small	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+203	40023184	142	 Good item best prise	good item best prise	POSITIVE	POSITIVE	POSITIVE	No match	No match
+204	40023184	143	 useful for thadka and frying papad and smaal quantites of any item	useful thadka fry papad smaal quantites item	POSITIVE	POSITIVE	NEUTRAL	fry	operational_effectiveness
+205	40023184	143	 useful for thadka and frying papad and smaal quantites of any item	useful thadka fry papad smaal quantites item	POSITIVE	POSITIVE	NEUTRAL	useful	operational_effectiveness
+206	40023184	144	 Full cheating and size is very small don't buy in big basket this kind of product	full cheat size very small do not buy big basket kind product	POSITIVE	POSITIVE	NEGATIVE	kind	quality
+207	40023184	144	 Full cheating and size is very small don't buy in big basket this kind of product	full cheat size very small do not buy big basket kind product	POSITIVE	POSITIVE	NEGATIVE	do	operational_effectiveness
+208	40023184	145	 As it is written that it will hold 1 L but it is too small it will hold max 500 ml.	write hold l but too small hold max 00 ml	NEGATIVE	NEUTRAL	NEUTRAL	No match	No match
+209	40023184	146	Very small not worthy	very small not worthy	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+210	40023184	147	 Bad	bad	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+211	40023184	148	 ineed to return the product	ineed return product	NEUTRAL	NEUTRAL	NEUTRAL	return	shipping_delivery
+212	40023184	149	 small in size	small size	NEGATIVE	NEUTRAL	POSITIVE	No match	No match
+213	40023184	150	 kadhai is that heavy it didn't reach my expectations BB u disappointed me ?	kadhai heavy do not reach expectations bb disappoint	NEGATIVE	NEGATIVE	NEGATIVE	do	operational_effectiveness
+214	40023184	151	love the ksdai toooooo cute?? going to buy one more can be used for serving..	love ksdai toooooo cute go buy one more can use serve	POSITIVE	POSITIVE	POSITIVE	can	shipping_delivery
+215	40023184	151	love the ksdai toooooo cute?? going to buy one more can be used for serving..	love ksdai toooooo cute go buy one more can use serve	POSITIVE	POSITIVE	POSITIVE	use	operational_effectiveness
+216	40023184	152	 not 1ltr, too small.	not ltr too small	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+217	40023184	153	 Good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+218	40023184	154	disappointing very small . want to return the product . not as per picture displayed	disappoint very small want return product not per picture display	NEGATIVE	NEGATIVE	NEGATIVE	return	shipping_delivery
+219	40023184	154	disappointing very small . want to return the product . not as per picture displayed	disappoint very small want return product not per picture display	NEGATIVE	NEGATIVE	NEGATIVE	want	quality
+220	40023184	155	 Not induction comfortable.too bad.	not induction comfortable too bad	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+221	40023184	155	 Not induction comfortable.too bad.	not induction comfortable too bad	NEGATIVE	NEGATIVE	NEGATIVE	induction	operational_effectiveness
+222	40023184	156	 Found it too small a size	find too small size	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+223	40023184	157	 item is very small, not useful.	item very small not useful	NEGATIVE	NEGATIVE	NEGATIVE	useful	operational_effectiveness
+224	40023184	158	not up to the mark too small	not up mark too small	NEGATIVE	NEUTRAL	NEGATIVE	mark	quality
+225	40023184	159	 very small. 1L is wrong. But still it is good in quality.	very small l wrong but still good quality	NEUTRAL	POSITIVE	POSITIVE	quality	quality
+226	40023184	160	it's not induction comparable 	not induction comparable	NEUTRAL	NEUTRAL	NEGATIVE	induction	operational_effectiveness
+227	40023184	161	 product is very light weight and very small	product very light weight very small	POSITIVE	NEUTRAL	NEGATIVE	No match	No match
+228	40023184	162	 bakwas	bakwas	NEUTRAL	NEUTRAL	NEUTRAL	No match	No match
+229	40023184	163	Not good quality Very thin material and not viable for daily use.	not good quality very thin material not viable daily use	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+230	40023184	163	Not good quality Very thin material and not viable for daily use.	not good quality very thin material not viable daily use	NEGATIVE	NEGATIVE	NEGATIVE	use	operational_effectiveness
+231	40023184	163	Not good quality Very thin material and not viable for daily use.	not good quality very thin material not viable daily use	NEGATIVE	NEGATIVE	NEGATIVE	viable	operational_effectiveness
+232	40023184	164	 thanks for nice product BB	thank nice product bb	POSITIVE	POSITIVE	POSITIVE	No match	No match
+233	40023184	165	 Good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+234	40023184	166	Not good very thin nd small	not good very thin nd small	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+235	40023184	167	Not worthy This is not 1 ltr kadhai it's 700 ml only	not worthy not ltr kadhai 00 ml only	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+236	40023184	168	deceptive size waste of money. i cannot use this item for anything	deceptive size waste money can not use item anything	NEGATIVE	NEGATIVE	NEUTRAL	money	price
+237	40023184	168	deceptive size waste of money. i cannot use this item for anything	deceptive size waste money can not use item anything	NEGATIVE	NEGATIVE	NEUTRAL	can	shipping_delivery
+238	40023184	168	deceptive size waste of money. i cannot use this item for anything	deceptive size waste money can not use item anything	NEGATIVE	NEGATIVE	NEUTRAL	use	operational_effectiveness
+239	40023184	169	 bhut chhhota h	bhut chhhota h	NEUTRAL	NEUTRAL	NEUTRAL	No match	No match
+240	40023184	170	 small size	small size	NEGATIVE	NEUTRAL	POSITIVE	No match	No match
+241	40023184	171	 good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+242	40023184	172	 its too small	too small	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+243	40023184	173	 super	super	POSITIVE	POSITIVE	POSITIVE	No match	No match
+244	40023184	174	very small waste of Mobey I like tha quality	very small waste mobey like tha quality	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+245	40023184	175	 nice quality	nice quality	POSITIVE	POSITIVE	POSITIVE	quality	quality
+246	40023184	176	 good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+247	40023184	177	 useful for single person	useful single person	POSITIVE	POSITIVE	NEUTRAL	single	price
+248	40023184	177	 useful for single person	useful single person	POSITIVE	POSITIVE	NEUTRAL	useful	operational_effectiveness
+249	40023184	178	 amazing ?	amaze	NEUTRAL	POSITIVE	NEUTRAL	No match	No match
+250	40023184	179	 good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+251	40023184	180	Size Compromised Smaller than expected ....Doesn't not looks like 1L container....different from what I ordered	size compromise smaller than expect do not not look like l container different order	NEUTRAL	POSITIVE	POSITIVE	container	shipping_delivery
+252	40023184	180	Size Compromised Smaller than expected ....Doesn't not looks like 1L container....different from what I ordered	size compromise smaller than expect do not not look like l container different order	NEUTRAL	POSITIVE	POSITIVE	do	operational_effectiveness
+253	40023184	181	 it's not at all induction suppoted	not induction suppoted	NEUTRAL	NEUTRAL	NEUTRAL	induction	operational_effectiveness
+254	40023184	182	 good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+255	40023184	183	 Good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+256	40023184	184	 very nice	very nice	POSITIVE	POSITIVE	POSITIVE	No match	No match
+257	40023184	185	nice product exactly one litre it can hold. but thick and sturdy enough to cook. I loved this one. it looks cute, so can be used for serving too.	nice product exactly one litre can hold but thick sturdy enough cook love one look cute can use serve too	POSITIVE	POSITIVE	NEGATIVE	can	shipping_delivery
+258	40023184	185	nice product exactly one litre it can hold. but thick and sturdy enough to cook. I loved this one. it looks cute, so can be used for serving too.	nice product exactly one litre can hold but thick sturdy enough cook love one look cute can use serve too	POSITIVE	POSITIVE	NEGATIVE	sturdy	quality
+259	40023184	185	nice product exactly one litre it can hold. but thick and sturdy enough to cook. I loved this one. it looks cute, so can be used for serving too.	nice product exactly one litre can hold but thick sturdy enough cook love one look cute can use serve too	POSITIVE	POSITIVE	NEGATIVE	use	operational_effectiveness
+260	40023184	186	 worth it....	worth	POSITIVE	POSITIVE	POSITIVE	worth	quality
+261	40023184	187	heavy base and nice product Heavy base and nice product	heavy base nice product heavy base nice product	NEGATIVE	POSITIVE	NEGATIVE	No match	No match
+262	40023184	188	 no induction base.	no induction base	NEGATIVE	NEGATIVE	NEGATIVE	induction	operational_effectiveness
+263	40023184	189	 this kadhai is too small to use..	kadhai too small use	NEGATIVE	NEUTRAL	NEGATIVE	use	operational_effectiveness
+264	40023184	190	quality is nice.....worth for money good Quality	quality nice worth money good quality	POSITIVE	POSITIVE	POSITIVE	money	price
+265	40023184	190	quality is nice.....worth for money good Quality	quality nice worth money good quality	POSITIVE	POSITIVE	POSITIVE	quality	quality
+266	40023184	190	quality is nice.....worth for money good Quality	quality nice worth money good quality	POSITIVE	POSITIVE	POSITIVE	worth	quality
+267	40023184	191	am not expecting this weight is very poor very bad quality not worthy	not expect weight very poor very bad quality not worthy	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+268	40023184	191	am not expecting this weight is very poor very bad quality not worthy	not expect weight very poor very bad quality not worthy	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+269	40023184	192	product is awesome. But not working on induction. 	product awesome but not work induction	POSITIVE	POSITIVE	NEGATIVE	induction	operational_effectiveness
+270	40023184	192	product is awesome. But not working on induction. 	product awesome but not work induction	POSITIVE	POSITIVE	NEGATIVE	work	operational_effectiveness
+271	40023184	193	Excellent Excellent	excellent excellent	POSITIVE	POSITIVE	POSITIVE	No match	No match
+272	40023184	194	this product is very small 	product very small	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+273	40178172	195	waste of money Its just been 4 months and the non-stick film has come out...and the worst part is this film comes out during preparing food in tiny tiny pieces..So unhealthy..A total waste of money	waste money just months non stick film have come worst part film come prepare food tiny tiny piece unhealthy total waste money	NEGATIVE	NEGATIVE	NEGATIVE	money	price
+274	40178172	195	waste of money Its just been 4 months and the non-stick film has come out...and the worst part is this film comes out during preparing food in tiny tiny pieces..So unhealthy..A total waste of money	waste money just months non stick film have come worst part film come prepare food tiny tiny piece unhealthy total waste money	NEGATIVE	NEGATIVE	NEGATIVE	total	size
+275	40178172	195	waste of money Its just been 4 months and the non-stick film has come out...and the worst part is this film comes out during preparing food in tiny tiny pieces..So unhealthy..A total waste of money	waste money just months non stick film have come worst part film come prepare food tiny tiny piece unhealthy total waste money	NEGATIVE	NEGATIVE	NEGATIVE	prepare	operational_effectiveness
+276	40178172	196	Thin base The base is very thin. It is not a good kadhai.	thin base base very thin not good kadhai	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+277	40178172	197	 broken, very bad	break very bad	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+278	40178172	197	 broken, very bad	break very bad	NEGATIVE	NEGATIVE	NEGATIVE	break	quality
+279	40178172	198	 its in good condition and quality is good too, I am using it from a week Geetha	good condition quality good too use week geetha	POSITIVE	POSITIVE	POSITIVE	condition	quality
+280	40178172	198	 its in good condition and quality is good too, I am using it from a week Geetha	good condition quality good too use week geetha	POSITIVE	POSITIVE	POSITIVE	quality	quality
+281	40178172	198	 its in good condition and quality is good too, I am using it from a week Geetha	good condition quality good too use week geetha	POSITIVE	POSITIVE	POSITIVE	use	operational_effectiveness
+282	40178172	199	second buy my second buy, love the product	second buy second buy love product	POSITIVE	POSITIVE	NEUTRAL	second	quality
+283	40178172	200	excellent excellent	excellent excellent	POSITIVE	POSITIVE	POSITIVE	No match	No match
+284	40178172	201	waste of money not working on induction	waste money not work induction	NEGATIVE	NEGATIVE	NEUTRAL	money	price
+285	40178172	201	waste of money not working on induction	waste money not work induction	NEGATIVE	NEGATIVE	NEUTRAL	induction	operational_effectiveness
+286	40178172	201	waste of money not working on induction	waste money not work induction	NEGATIVE	NEGATIVE	NEUTRAL	work	operational_effectiveness
+287	40178172	202	 very bad quality product.the nonstick coating is so thin and it gone out	very bad quality product nonstick coat thin go	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+288	40178172	202	 very bad quality product.the nonstick coating is so thin and it gone out	very bad quality product nonstick coat thin go	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+289	40178172	203	waste of money Third class quality. So cheAp. Color n coating both gone.	waste money third class quality cheap color n coat go	POSITIVE	NEGATIVE	NEGATIVE	cheap	price
+290	40178172	203	waste of money Third class quality. So cheAp. Color n coating both gone.	waste money third class quality cheap color n coat go	POSITIVE	NEGATIVE	NEGATIVE	money	price
+291	40178172	203	waste of money Third class quality. So cheAp. Color n coating both gone.	waste money third class quality cheap color n coat go	POSITIVE	NEGATIVE	NEGATIVE	quality	quality
+292	40178172	204	 wow exllent good quality	wow exllent good quality	POSITIVE	POSITIVE	POSITIVE	quality	quality
+293	40178172	205	 Handles of Kadhai were stained with dust looking like it is stored since many days and seems like wasn't getting sold. It seems that it's not a fresh product	handle kadhai stain dust look like store since many days seem like not get sell seem not fresh product	POSITIVE	POSITIVE	NEGATIVE	stain	quality
+294	40178172	205	 Handles of Kadhai were stained with dust looking like it is stored since many days and seems like wasn't getting sold. It seems that it's not a fresh product	handle kadhai stain dust look like store since many days seem like not get sell seem not fresh product	POSITIVE	POSITIVE	NEGATIVE	dust	maintenance
+295	40178172	206	looks like an old one looks.like used.one. non stick thing started peeling off	look like old one look like use one non stick thing start peel	POSITIVE	POSITIVE	NEGATIVE	use	operational_effectiveness
+296	40178172	207	 Just okay	just okay	POSITIVE	POSITIVE	POSITIVE	No match	No match
+297	40178172	208	 Bad quality	bad quality	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+298	40178172	208	 Bad quality	bad quality	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+299	40178172	209	not a quality product average life is about 3 to 4 months if used daily and following all instructions regarding care.	not quality product average life months use daily follow instructions regard care	NEGATIVE	POSITIVE	NEUTRAL	quality	quality
+300	40178172	209	not a quality product average life is about 3 to 4 months if used daily and following all instructions regarding care.	not quality product average life months use daily follow instructions regard care	NEGATIVE	POSITIVE	NEUTRAL	use	operational_effectiveness
+301	40178172	209	not a quality product average life is about 3 to 4 months if used daily and following all instructions regarding care.	not quality product average life months use daily follow instructions regard care	NEGATIVE	POSITIVE	NEUTRAL	care	maintenance
+302	40178172	210	good good	good good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+303	40178172	211	worth its beautiful..very thick	worth beautiful very thick	POSITIVE	POSITIVE	POSITIVE	worth	quality
+304	40178172	212	 it's ok	ok	POSITIVE	POSITIVE	POSITIVE	No match	No match
+305	40178172	213	 I love this product...haven't yet noticed any peeling of the coating..thanks	love product have not yet notice peel coat thank	POSITIVE	POSITIVE	NEGATIVE	No match	No match
+306	40178172	214	 has a defect.. I realised after I took it for washing	have defect realise take wash	NEUTRAL	NEGATIVE	NEUTRAL	wash	maintenance
+307	40178172	215	 the non stick comes off very soon	non stick come very soon	POSITIVE	NEUTRAL	NEUTRAL	No match	No match
+308	40178172	216	good for its price good for its price	good price good price	POSITIVE	POSITIVE	POSITIVE	price	price
+309	40178172	217	neat and very economical good stuff	neat very economical good stuff	POSITIVE	POSITIVE	POSITIVE	economical	price
+310	40114261	218	size is smaller than pic and got plastic stick instead of wooden stick average	size smaller than pic get plastic stick instead wooden stick average	NEUTRAL	NEUTRAL	NEGATIVE	No match	No match
+311	40114261	219	bad quality don't buy the handle is very weak it will come out immediately u hold it	bad quality do not buy handle very weak come immediately hold	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+312	40114261	219	bad quality don't buy the handle is very weak it will come out immediately u hold it	bad quality do not buy handle very weak come immediately hold	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+313	40114261	219	bad quality don't buy the handle is very weak it will come out immediately u hold it	bad quality do not buy handle very weak come immediately hold	NEGATIVE	NEGATIVE	NEGATIVE	do	operational_effectiveness
+314	40114261	220	 There was no company name in the product. only a sticker attached. the lid is useless bery light weight. even the tawa is light weight aluminium tawa. get heated very easily. not good for appam patra. I had earlier used Anjali products. either they deteriorated or fake product	no company name product only sticker attach lid useless bery light weight even tawa light weight aluminium tawa get heat very easily not good appam patra have earlier use anjali products either deteriorate fake product	NEGATIVE	NEGATIVE	NEGATIVE	heat	operational_effectiveness
+315	40114261	220	 There was no company name in the product. only a sticker attached. the lid is useless bery light weight. even the tawa is light weight aluminium tawa. get heated very easily. not good for appam patra. I had earlier used Anjali products. either they deteriorated or fake product	no company name product only sticker attach lid useless bery light weight even tawa light weight aluminium tawa get heat very easily not good appam patra have earlier use anjali products either deteriorate fake product	NEGATIVE	NEGATIVE	NEGATIVE	use	operational_effectiveness
+316	40114261	221	 It is not 28cm diameter. it's only 21cm. wasted my money!	not cm diameter only cm waste money	NEGATIVE	NEGATIVE	NEUTRAL	money	price
+317	40114261	221	 It is not 28cm diameter. it's only 21cm. wasted my money!	not cm diameter only cm waste money	NEGATIVE	NEGATIVE	NEUTRAL	diameter	size
+318	40114261	222	not so good there was dent on the product when i got this.	not good dent product get	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+319	40114261	223	defect in steel lid Dent in steel lid	defect steel lid dent steel lid	NEUTRAL	NEGATIVE	NEUTRAL	No match	No match
+320	40114261	224	 Very good and nonstick, consumes less oil. Only that the appa kuzhi size could have been bigger.	very good nonstick consume less oil only appa kuzhi size could have bigger	POSITIVE	POSITIVE	POSITIVE	bigger	operational_effectiveness
+321	40114261	224	 Very good and nonstick, consumes less oil. Only that the appa kuzhi size could have been bigger.	very good nonstick consume less oil only appa kuzhi size could have bigger	POSITIVE	POSITIVE	POSITIVE	consume	operational_effectiveness
+322	40114261	225	 User friendly	user friendly	POSITIVE	POSITIVE	POSITIVE	No match	No match
+323	40114261	226	 Good Product	good product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+324	40114261	227	 product is good, I made 2 batches and they came out nicely. removing 1 star for delivery, the lid was dented, maybe bad handling.	product good make batch come nicely remove star delivery lid dent maybe bad handle	POSITIVE	POSITIVE	NEGATIVE	batch	shipping_delivery
+325	40114261	227	 product is good, I made 2 batches and they came out nicely. removing 1 star for delivery, the lid was dented, maybe bad handling.	product good make batch come nicely remove star delivery lid dent maybe bad handle	POSITIVE	POSITIVE	NEGATIVE	delivery	shipping_delivery
+326	40114261	227	 product is good, I made 2 batches and they came out nicely. removing 1 star for delivery, the lid was dented, maybe bad handling.	product good make batch come nicely remove star delivery lid dent maybe bad handle	POSITIVE	POSITIVE	NEGATIVE	bad	quality
+327	40114261	227	 product is good, I made 2 batches and they came out nicely. removing 1 star for delivery, the lid was dented, maybe bad handling.	product good make batch come nicely remove star delivery lid dent maybe bad handle	POSITIVE	POSITIVE	NEGATIVE	make	quality
+328	40114261	228	 Good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+329	40114261	229	 i want one more product	want one more product	POSITIVE	POSITIVE	NEGATIVE	want	quality
+330	40114261	230	awesome product good product delivered by ritesh	awesome product good product deliver ritesh	POSITIVE	POSITIVE	POSITIVE	deliver	shipping_delivery
+331	40114261	231	 good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+332	40114261	232	nice the pan is little smaller than what is shown in the picture but still good	nice pan little smaller than show picture but still good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+333	40114261	233	 best products	best products	POSITIVE	POSITIVE	POSITIVE	No match	No match
+334	40114261	234	Must go for it. Good Product.	must go good product	POSITIVE	POSITIVE	NEUTRAL	No match	No match
+335	40114261	235	 Good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+336	40114261	236	 good, nice product	good nice product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+337	40114261	237	nice product At this cost its a very nice product...that too with lid... which is also an important part	nice product cost very nice product too lid also important part	POSITIVE	POSITIVE	POSITIVE	cost	price
+338	40114261	238	Good one The base is heavy, and almost uniform heating across all the cavities is observed, leading to uniform cooking. Using it since last one month and in love with the product.	good one base heavy almost uniform heat across cavities observe lead uniform cook use since last one month love product	NEUTRAL	POSITIVE	NEUTRAL	last	quality
+339	40114261	238	Good one The base is heavy, and almost uniform heating across all the cavities is observed, leading to uniform cooking. Using it since last one month and in love with the product.	good one base heavy almost uniform heat across cavities observe lead uniform cook use since last one month love product	NEUTRAL	POSITIVE	NEUTRAL	heat	operational_effectiveness
+340	40114261	238	Good one The base is heavy, and almost uniform heating across all the cavities is observed, leading to uniform cooking. Using it since last one month and in love with the product.	good one base heavy almost uniform heat across cavities observe lead uniform cook use since last one month love product	NEUTRAL	POSITIVE	NEUTRAL	use	operational_effectiveness
+341	40114261	239	 Good	good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+342	40114261	240	yes nice	yes nice	POSITIVE	POSITIVE	POSITIVE	No match	No match
+343	40114261	241	I did like this product quality issue	do like product quality issue	NEUTRAL	POSITIVE	NEGATIVE	issue	quality
+344	40114261	241	I did like this product quality issue	do like product quality issue	NEUTRAL	POSITIVE	NEGATIVE	quality	quality
+345	40114261	241	I did like this product quality issue	do like product quality issue	NEUTRAL	POSITIVE	NEGATIVE	do	operational_effectiveness
+346	40114261	242	good product 	good product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+347	40186127	243	 very small size	very small size	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+348	40186127	244	 very good product	very good product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+349	40186127	245	Has scratches, disappointed The pan has scratches	have scratch disappoint pan have scratch	NEUTRAL	NEGATIVE	NEUTRAL	scratch	quality
+350	40186127	246	 very small size	very small size	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+351	40186127	247	 very good product	very good product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+352	40186127	248	Has scratches, disappointed The pan has scratches	have scratch disappoint pan have scratch	NEUTRAL	NEGATIVE	NEUTRAL	scratch	quality
+353	40009195	249	 It is not induction friendly. So I want to return it.	not induction friendly want return	POSITIVE	NEGATIVE	NEUTRAL	return	shipping_delivery
+354	40009195	249	 It is not induction friendly. So I want to return it.	not induction friendly want return	POSITIVE	NEGATIVE	NEUTRAL	want	quality
+355	40009195	249	 It is not induction friendly. So I want to return it.	not induction friendly want return	POSITIVE	NEGATIVE	NEUTRAL	induction	operational_effectiveness
+356	40009195	250	clip not given bad quality	clip not give bad quality	NEGATIVE	POSITIVE	NEGATIVE	bad	quality
+357	40009195	250	clip not given bad quality	clip not give bad quality	NEGATIVE	POSITIVE	NEGATIVE	quality	quality
+358	40009195	251	bad Bad colaty	bad bad colaty	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+359	40009195	252	 very good	very good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+360	40009209	253	poor quality teflon coating very bad quality product. removing the sticker that is on the pan surface, removed the teflon coating. u can imagine how poor the quality of the teflon coating is. We returned this product for a refund.	poor quality teflon coat very bad quality product remove sticker pan surface remove teflon coat can imagine poor quality teflon coat return product refund	NEGATIVE	NEGATIVE	NEGATIVE	can	shipping_delivery
+361	40009209	253	poor quality teflon coating very bad quality product. removing the sticker that is on the pan surface, removed the teflon coating. u can imagine how poor the quality of the teflon coating is. We returned this product for a refund.	poor quality teflon coat very bad quality product remove sticker pan surface remove teflon coat can imagine poor quality teflon coat return product refund	NEGATIVE	NEGATIVE	NEGATIVE	return	shipping_delivery
+362	40009209	253	poor quality teflon coating very bad quality product. removing the sticker that is on the pan surface, removed the teflon coating. u can imagine how poor the quality of the teflon coating is. We returned this product for a refund.	poor quality teflon coat very bad quality product remove sticker pan surface remove teflon coat can imagine poor quality teflon coat return product refund	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+363	40009209	253	poor quality teflon coating very bad quality product. removing the sticker that is on the pan surface, removed the teflon coating. u can imagine how poor the quality of the teflon coating is. We returned this product for a refund.	poor quality teflon coat very bad quality product remove sticker pan surface remove teflon coat can imagine poor quality teflon coat return product refund	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+364	40009209	254	 too small	too small	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+365	40009209	255	 nice product	nice product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+366	40009209	256	 Ok	ok	POSITIVE	POSITIVE	POSITIVE	No match	No match
+367	40009199	257	 Best quality	best quality	POSITIVE	POSITIVE	POSITIVE	quality	quality
+368	40009199	258	 Excellent product	excellent product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+369	40009199	259	 I want to return the product. It doesn't have flat surface.	want return product do not have flat surface	NEUTRAL	POSITIVE	NEGATIVE	return	shipping_delivery
+370	40009199	259	 I want to return the product. It doesn't have flat surface.	want return product do not have flat surface	NEUTRAL	POSITIVE	NEGATIVE	want	quality
+371	40009199	259	 I want to return the product. It doesn't have flat surface.	want return product do not have flat surface	NEUTRAL	POSITIVE	NEGATIVE	do	operational_effectiveness
+372	40009199	260	 nice good	nice good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+373	40014038	261	 It's seems to have quality issues and there are scratches as well as marks on the backside of the pan. Not a new one but a refurbished one. I have been using Futura for years and this quality is not up to mark.	seem have quality issue scratch well mark backside pan not new one but refurbish one have use futura years quality not up mark	NEGATIVE	POSITIVE	NEGATIVE	issue	quality
+374	40014038	261	 It's seems to have quality issues and there are scratches as well as marks on the backside of the pan. Not a new one but a refurbished one. I have been using Futura for years and this quality is not up to mark.	seem have quality issue scratch well mark backside pan not new one but refurbish one have use futura years quality not up mark	NEGATIVE	POSITIVE	NEGATIVE	mark	quality
+375	40014038	261	 It's seems to have quality issues and there are scratches as well as marks on the backside of the pan. Not a new one but a refurbished one. I have been using Futura for years and this quality is not up to mark.	seem have quality issue scratch well mark backside pan not new one but refurbish one have use futura years quality not up mark	NEGATIVE	POSITIVE	NEGATIVE	quality	quality
+376	40014038	261	 It's seems to have quality issues and there are scratches as well as marks on the backside of the pan. Not a new one but a refurbished one. I have been using Futura for years and this quality is not up to mark.	seem have quality issue scratch well mark backside pan not new one but refurbish one have use futura years quality not up mark	NEGATIVE	POSITIVE	NEGATIVE	scratch	quality
+377	40014038	261	 It's seems to have quality issues and there are scratches as well as marks on the backside of the pan. Not a new one but a refurbished one. I have been using Futura for years and this quality is not up to mark.	seem have quality issue scratch well mark backside pan not new one but refurbish one have use futura years quality not up mark	NEGATIVE	POSITIVE	NEGATIVE	use	operational_effectiveness
+378	40014038	262	 good product	good product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+379	40014038	263	Great Pan American s nice will only be able to give my view after using for two/three more months because previous experience with non stick cookware has not been good.	great pan american s nice only able give view use two three more months previous experience non stick cookware have not good	POSITIVE	POSITIVE	NEUTRAL	use	operational_effectiveness
+380	40014038	264	 expected bigger one	expect bigger one	NEUTRAL	NEUTRAL	POSITIVE	bigger	operational_effectiveness
+381	40104348	265	 nice product	nice product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+382	40083793	266	Doesn't last even a month. Awful experience. The pan started leaving the non stick coating in less than a month. Extremely disappointed. Avoid this id you can!	do not last even month awful experience pan start leave non stick coat less than month extremely disappoint avoid id can	NEGATIVE	NEGATIVE	NEGATIVE	can	shipping_delivery
+383	40083793	266	Doesn't last even a month. Awful experience. The pan started leaving the non stick coating in less than a month. Extremely disappointed. Avoid this id you can!	do not last even month awful experience pan start leave non stick coat less than month extremely disappoint avoid id can	NEGATIVE	NEGATIVE	NEGATIVE	last	quality
+384	40083793	266	Doesn't last even a month. Awful experience. The pan started leaving the non stick coating in less than a month. Extremely disappointed. Avoid this id you can!	do not last even month awful experience pan start leave non stick coat less than month extremely disappoint avoid id can	NEGATIVE	NEGATIVE	NEGATIVE	do	operational_effectiveness
+385	40009190	267	 Useless donâ€™t buy.Not working on induction.	useless don t buy not work induction	NEGATIVE	NEGATIVE	NEGATIVE	induction	operational_effectiveness
+386	40009190	267	 Useless donâ€™t buy.Not working on induction.	useless don t buy not work induction	NEGATIVE	NEGATIVE	NEGATIVE	work	operational_effectiveness
+387	40009190	268	 Useless donâ€™t buy.Not working on induction.	useless don t buy not work induction	NEGATIVE	NEGATIVE	NEGATIVE	induction	operational_effectiveness
+388	40009190	268	 Useless donâ€™t buy.Not working on induction.	useless don t buy not work induction	NEGATIVE	NEGATIVE	NEGATIVE	work	operational_effectiveness
+389	40009195	269	 It is not induction friendly. So I want to return it.	not induction friendly want return	POSITIVE	NEGATIVE	NEUTRAL	return	shipping_delivery
+390	40009195	269	 It is not induction friendly. So I want to return it.	not induction friendly want return	POSITIVE	NEGATIVE	NEUTRAL	want	quality
+391	40009195	269	 It is not induction friendly. So I want to return it.	not induction friendly want return	POSITIVE	NEGATIVE	NEUTRAL	induction	operational_effectiveness
+392	40009195	270	clip not given bad quality	clip not give bad quality	NEGATIVE	POSITIVE	NEGATIVE	bad	quality
+393	40009195	270	clip not given bad quality	clip not give bad quality	NEGATIVE	POSITIVE	NEGATIVE	quality	quality
+394	40009195	271	bad Bad colaty	bad bad colaty	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+395	40009195	272	 very good	very good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+396	40009199	273	 Best quality	best quality	POSITIVE	POSITIVE	POSITIVE	quality	quality
+397	40009199	274	 Excellent product	excellent product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+398	40009199	275	 I want to return the product. It doesn't have flat surface.	want return product do not have flat surface	NEUTRAL	POSITIVE	NEGATIVE	return	shipping_delivery
+399	40009199	275	 I want to return the product. It doesn't have flat surface.	want return product do not have flat surface	NEUTRAL	POSITIVE	NEGATIVE	want	quality
+400	40009199	275	 I want to return the product. It doesn't have flat surface.	want return product do not have flat surface	NEUTRAL	POSITIVE	NEGATIVE	do	operational_effectiveness
+401	40009199	276	 nice good	nice good	POSITIVE	POSITIVE	POSITIVE	No match	No match
+402	40014038	277	 It's seems to have quality issues and there are scratches as well as marks on the backside of the pan. Not a new one but a refurbished one. I have been using Futura for years and this quality is not up to mark.	seem have quality issue scratch well mark backside pan not new one but refurbish one have use futura years quality not up mark	NEGATIVE	POSITIVE	NEGATIVE	issue	quality
+403	40014038	277	 It's seems to have quality issues and there are scratches as well as marks on the backside of the pan. Not a new one but a refurbished one. I have been using Futura for years and this quality is not up to mark.	seem have quality issue scratch well mark backside pan not new one but refurbish one have use futura years quality not up mark	NEGATIVE	POSITIVE	NEGATIVE	mark	quality
+404	40014038	277	 It's seems to have quality issues and there are scratches as well as marks on the backside of the pan. Not a new one but a refurbished one. I have been using Futura for years and this quality is not up to mark.	seem have quality issue scratch well mark backside pan not new one but refurbish one have use futura years quality not up mark	NEGATIVE	POSITIVE	NEGATIVE	quality	quality
+405	40014038	277	 It's seems to have quality issues and there are scratches as well as marks on the backside of the pan. Not a new one but a refurbished one. I have been using Futura for years and this quality is not up to mark.	seem have quality issue scratch well mark backside pan not new one but refurbish one have use futura years quality not up mark	NEGATIVE	POSITIVE	NEGATIVE	scratch	quality
+406	40014038	277	 It's seems to have quality issues and there are scratches as well as marks on the backside of the pan. Not a new one but a refurbished one. I have been using Futura for years and this quality is not up to mark.	seem have quality issue scratch well mark backside pan not new one but refurbish one have use futura years quality not up mark	NEGATIVE	POSITIVE	NEGATIVE	use	operational_effectiveness
+407	40014038	278	 good product	good product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+408	40014038	279	Great Pan American s nice will only be able to give my view after using for two/three more months because previous experience with non stick cookware has not been good.	great pan american s nice only able give view use two three more months previous experience non stick cookware have not good	POSITIVE	POSITIVE	NEUTRAL	use	operational_effectiveness
+409	40014038	280	 expected bigger one	expect bigger one	NEUTRAL	NEUTRAL	POSITIVE	bigger	operational_effectiveness
+410	40104348	281	 nice product	nice product	POSITIVE	POSITIVE	POSITIVE	No match	No match
+411	40083793	282	Doesn't last even a month. Awful experience. The pan started leaving the non stick coating in less than a month. Extremely disappointed. Avoid this id you can!	do not last even month awful experience pan start leave non stick coat less than month extremely disappoint avoid id can	NEGATIVE	NEGATIVE	NEGATIVE	can	shipping_delivery
+412	40083793	282	Doesn't last even a month. Awful experience. The pan started leaving the non stick coating in less than a month. Extremely disappointed. Avoid this id you can!	do not last even month awful experience pan start leave non stick coat less than month extremely disappoint avoid id can	NEGATIVE	NEGATIVE	NEGATIVE	last	quality
+413	40083793	282	Doesn't last even a month. Awful experience. The pan started leaving the non stick coating in less than a month. Extremely disappointed. Avoid this id you can!	do not last even month awful experience pan start leave non stick coat less than month extremely disappoint avoid id can	NEGATIVE	NEGATIVE	NEGATIVE	do	operational_effectiveness
+414	40086872	283	 poor product. it's not non stick, it's a sticky 1.	poor product not non stick sticky	NEGATIVE	NEGATIVE	NEGATIVE	No match	No match
+415	40086872	284	 Very small size	very small size	NEGATIVE	NEUTRAL	NEGATIVE	No match	No match
+416	40086872	285	Return the pan 0 out of 5 kindly return the same The coating removed on first attempt	return pan 0 kindly return same coat remove first attempt	POSITIVE	POSITIVE	NEUTRAL	return	shipping_delivery
+417	40086872	286	 Very bad quality, nonstick coated paint is gone	very bad quality nonstick coat paint go	NEGATIVE	NEGATIVE	NEGATIVE	bad	quality
+418	40086872	286	 Very bad quality, nonstick coated paint is gone	very bad quality nonstick coat paint go	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+419	40086872	287	 not at all nonstick. egg sticks to it and it's horribly difficult to get it out of the ears. no shape gets maintained. don't but it at all	not nonstick egg stick horribly difficult get ears no shape get maintain do not but	NEGATIVE	NEGATIVE	NEGATIVE	do	operational_effectiveness
+420	40086872	288	very cheap quality product worst money 	very cheap quality product worst money	NEGATIVE	NEGATIVE	NEGATIVE	cheap	price
+421	40086872	288	very cheap quality product worst money 	very cheap quality product worst money	NEGATIVE	NEGATIVE	NEGATIVE	money	price
+422	40086872	288	very cheap quality product worst money 	very cheap quality product worst money	NEGATIVE	NEGATIVE	NEGATIVE	quality	quality
+423	40086872	289	 Not so impressive	not impressive	NEGATIVE	NEGATIVE	POSITIVE	No match	No match
+424	40009190	290	 Useless don't buy.Not working on induction.	useless do not buy not work induction	NEGATIVE	NEGATIVE	NEGATIVE	do	operational_effectiveness
+425	40009190	290	 Useless don't buy.Not working on induction.	useless do not buy not work induction	NEGATIVE	NEGATIVE	NEGATIVE	induction	operational_effectiveness
+426	40009190	290	 Useless don't buy.Not working on induction.	useless do not buy not work induction	NEGATIVE	NEGATIVE	NEGATIVE	work	operational_effectiveness
